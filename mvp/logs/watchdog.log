@@ -1,0 +1,75 @@
+2026-03-20 14:07:11,248  [WATCHDOG]  Initialising MT5...
+2026-03-20 14:07:11,259  [WATCHDOG]  Connected | Account: 51522 | Equity: 9928.00
+2026-03-20 14:07:11,260  [WATCHDOG]  Peak: 9928.00 | Day start: 9928.00
+2026-03-20 14:07:11,260  [WATCHDOG]  Watchdog running. Monitoring every second.
+2026-03-20 14:07:11,260  [WATCHDOG]  Halt levels — Daily DD: 3.5% | Max DD: 7.0%
+2026-03-20 14:07:11,260  [WATCHDOG]  Equity: 9928.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-20 14:08:11,284  [WATCHDOG]  Equity: 9911.00 | Daily DD: 0.17% | Max DD: 0.20%
+2026-03-20 14:09:11,308  [WATCHDOG]  Equity: 9905.00 | Daily DD: 0.23% | Max DD: 0.26%
+2026-03-20 14:10:11,332  [WATCHDOG]  Equity: 9897.00 | Daily DD: 0.31% | Max DD: 0.34%
+2026-03-20 14:11:11,370  [WATCHDOG]  Equity: 9897.00 | Daily DD: 0.31% | Max DD: 0.34%
+2026-03-20 14:12:11,395  [WATCHDOG]  Equity: 9916.00 | Daily DD: 0.12% | Max DD: 0.15%
+2026-03-20 14:13:11,427  [WATCHDOG]  Equity: 9943.00 | Daily DD: 0.00% | Max DD: 0.01%
+2026-03-20 14:14:11,454  [WATCHDOG]  Equity: 9938.00 | Daily DD: 0.00% | Max DD: 0.20%
+2026-03-20 14:15:11,481  [WATCHDOG]  Equity: 9956.00 | Daily DD: 0.00% | Max DD: 0.02%
+2026-03-20 14:16:11,509  [WATCHDOG]  Equity: 9963.00 | Daily DD: 0.00% | Max DD: 0.10%
+2026-03-20 14:17:11,539  [WATCHDOG]  Equity: 9980.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-20 14:18:11,566  [WATCHDOG]  Equity: 9983.00 | Daily DD: 0.00% | Max DD: 0.15%
+2026-03-20 14:19:11,592  [WATCHDOG]  Equity: 9985.00 | Daily DD: 0.00% | Max DD: 0.13%
+2026-03-20 14:20:11,615  [WATCHDOG]  Equity: 9979.00 | Daily DD: 0.00% | Max DD: 0.19%
+2026-03-20 14:21:11,637  [WATCHDOG]  Equity: 9967.00 | Daily DD: 0.00% | Max DD: 0.31%
+2026-03-20 14:22:11,664  [WATCHDOG]  Equity: 9965.00 | Daily DD: 0.00% | Max DD: 0.33%
+2026-03-20 14:23:11,690  [WATCHDOG]  Equity: 9954.00 | Daily DD: 0.00% | Max DD: 0.44%
+2026-03-20 14:24:11,716  [WATCHDOG]  Equity: 9961.00 | Daily DD: 0.00% | Max DD: 0.37%
+2026-03-20 14:25:11,742  [WATCHDOG]  Equity: 9950.00 | Daily DD: 0.00% | Max DD: 0.48%
+2026-03-20 14:26:11,766  [WATCHDOG]  Equity: 9967.00 | Daily DD: 0.00% | Max DD: 0.31%
+2026-03-20 14:27:11,789  [WATCHDOG]  Equity: 9933.00 | Daily DD: 0.00% | Max DD: 0.65%
+2026-03-20 14:28:11,811  [WATCHDOG]  Equity: 9942.00 | Daily DD: 0.00% | Max DD: 0.56%
+2026-03-20 14:29:11,833  [WATCHDOG]  Equity: 9955.00 | Daily DD: 0.00% | Max DD: 0.43%
+2026-03-20 14:30:11,856  [WATCHDOG]  Equity: 9968.00 | Daily DD: 0.00% | Max DD: 0.30%
+2026-03-20 14:31:11,880  [WATCHDOG]  Equity: 9979.00 | Daily DD: 0.00% | Max DD: 0.19%
+2026-03-20 14:32:11,906  [WATCHDOG]  Equity: 9984.00 | Daily DD: 0.00% | Max DD: 0.14%
+2026-03-20 14:33:11,934  [WATCHDOG]  Equity: 10009.00 | Daily DD: 0.00% | Max DD: 0.01%
+2026-03-20 14:34:11,964  [WATCHDOG]  Equity: 10011.00 | Daily DD: 0.00% | Max DD: 0.10%
+2026-03-20 14:35:11,992  [WATCHDOG]  Equity: 10034.00 | Daily DD: 0.00% | Max DD: 0.03%
+2026-03-20 14:36:12,026  [WATCHDOG]  Equity: 10047.00 | Daily DD: 0.00% | Max DD: 0.10%
+2026-03-20 14:37:12,051  [WATCHDOG]  Equity: 10030.00 | Daily DD: 0.00% | Max DD: 0.27%
+2026-03-20 14:38:12,075  [WATCHDOG]  Equity: 10008.00 | Daily DD: 0.00% | Max DD: 0.49%
+2026-03-20 14:39:12,100  [WATCHDOG]  Equity: 10014.00 | Daily DD: 0.00% | Max DD: 0.43%
+2026-03-20 14:40:12,127  [WATCHDOG]  Equity: 9983.00 | Daily DD: 0.00% | Max DD: 0.74%
+2026-03-20 14:41:12,151  [WATCHDOG]  Equity: 9996.00 | Daily DD: 0.00% | Max DD: 0.61%
+2026-03-20 14:42:12,177  [WATCHDOG]  Equity: 9975.00 | Daily DD: 0.00% | Max DD: 0.82%
+2026-03-20 14:43:12,203  [WATCHDOG]  Equity: 9969.00 | Daily DD: 0.00% | Max DD: 0.88%
+2026-03-20 14:44:12,228  [WATCHDOG]  Equity: 9990.00 | Daily DD: 0.00% | Max DD: 0.67%
+2026-03-20 14:45:12,252  [WATCHDOG]  Equity: 10003.00 | Daily DD: 0.00% | Max DD: 0.54%
+2026-03-20 14:46:12,274  [WATCHDOG]  Equity: 10005.00 | Daily DD: 0.00% | Max DD: 0.52%
+2026-03-20 14:47:12,302  [WATCHDOG]  Equity: 10021.00 | Daily DD: 0.00% | Max DD: 0.36%
+2026-03-20 14:48:12,326  [WATCHDOG]  Equity: 10025.00 | Daily DD: 0.00% | Max DD: 0.32%
+2026-03-20 14:49:12,351  [WATCHDOG]  Equity: 10025.00 | Daily DD: 0.00% | Max DD: 0.32%
+2026-03-20 14:50:12,378  [WATCHDOG]  Equity: 10044.00 | Daily DD: 0.00% | Max DD: 0.13%
+2026-03-20 14:51:12,402  [WATCHDOG]  Equity: 10034.00 | Daily DD: 0.00% | Max DD: 0.23%
+2026-03-20 14:52:12,429  [WATCHDOG]  Equity: 10047.00 | Daily DD: 0.00% | Max DD: 0.10%
+2026-03-20 14:53:12,453  [WATCHDOG]  Equity: 10041.00 | Daily DD: 0.00% | Max DD: 0.16%
+2026-03-20 14:54:12,476  [WATCHDOG]  Equity: 10044.00 | Daily DD: 0.00% | Max DD: 0.13%
+2026-03-20 14:55:12,502  [WATCHDOG]  Equity: 10036.00 | Daily DD: 0.00% | Max DD: 0.21%
+2026-03-20 14:56:12,528  [WATCHDOG]  Equity: 10032.00 | Daily DD: 0.00% | Max DD: 0.25%
+2026-03-20 14:57:12,554  [WATCHDOG]  Equity: 10031.00 | Daily DD: 0.00% | Max DD: 0.26%
+2026-03-20 14:58:12,580  [WATCHDOG]  Equity: 10037.00 | Daily DD: 0.00% | Max DD: 0.20%
+2026-03-20 14:59:12,606  [WATCHDOG]  Equity: 10033.00 | Daily DD: 0.00% | Max DD: 0.24%
+2026-03-20 15:00:12,633  [WATCHDOG]  Equity: 10053.00 | Daily DD: 0.00% | Max DD: 0.04%
+2026-03-20 15:01:12,657  [WATCHDOG]  Equity: 10021.00 | Daily DD: 0.00% | Max DD: 0.36%
+2026-03-20 15:02:12,681  [WATCHDOG]  Equity: 10043.00 | Daily DD: 0.00% | Max DD: 0.14%
+2026-03-20 15:03:12,706  [WATCHDOG]  Equity: 10028.00 | Daily DD: 0.00% | Max DD: 0.29%
+2026-03-20 15:04:12,733  [WATCHDOG]  Equity: 10042.00 | Daily DD: 0.00% | Max DD: 0.15%
+2026-03-20 15:05:12,761  [WATCHDOG]  Equity: 10042.00 | Daily DD: 0.00% | Max DD: 0.15%
+2026-03-20 15:06:12,785  [WATCHDOG]  Equity: 10039.00 | Daily DD: 0.00% | Max DD: 0.18%
+2026-03-20 15:07:12,808  [WATCHDOG]  Equity: 10045.00 | Daily DD: 0.00% | Max DD: 0.12%
+2026-03-20 15:08:12,833  [WATCHDOG]  Equity: 10031.00 | Daily DD: 0.00% | Max DD: 0.26%
+2026-03-20 15:09:12,857  [WATCHDOG]  Equity: 10048.00 | Daily DD: 0.00% | Max DD: 0.09%
+2026-03-20 15:10:10,381  [WATCHDOG]  Initialising MT5...
+2026-03-20 15:10:10,399  [WATCHDOG]  State loaded — peak: 10057.0 | day_start: 9928.0
+2026-03-20 15:10:10,399  [WATCHDOG]  Connected | Account: 51522 | Equity: 10057.00
+2026-03-20 15:10:10,400  [WATCHDOG]  Peak: 10057.00 | Day start: 9928.00
+2026-03-20 15:10:10,400  [WATCHDOG]  Watchdog running. Monitoring every second.
+2026-03-20 15:10:10,400  [WATCHDOG]  Halt levels — Daily DD: 3.5% | Max DD: 7.0%
+2026-03-20 15:10:10,400  [WATCHDOG]  Equity: 10057.00 | Daily DD: 0.00% | Max DD: 0.00%

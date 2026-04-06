@@ -1,0 +1,42 @@
+2026-03-20 15:27:01,153  [SIGNAL]  Asian range — High: 4735.95 | Low: 4633.99 | Range: 101.96
+2026-03-20 15:27:01,154  [SIGNAL]  No breakout — close: 4667.59 | Asian High: 4735.95 | Asian Low: 4633.99
+2026-03-23 14:46:17,923  [SIGNAL]  State loaded — peak: 11201.0, day_start: 9928.0
+2026-03-23 14:46:17,924  [SIGNAL]  Starting in DRY RUN mode
+2026-03-23 14:46:17,924  [SIGNAL]  Symbol: XAUUSD | Risk: 0.5% per trade
+2026-03-23 14:46:17,924  [SIGNAL]  London window: 07:00–10:00 UTC
+2026-03-23 14:46:17,924  [SIGNAL]  Daily DD halt: 3.5% | Max DD halt: 7.0%
+2026-03-23 14:46:17,924  [SIGNAL]  Connecting to MT5...
+2026-03-23 14:46:17,924  [SIGNAL]  Initialising MT5...
+2026-03-23 14:46:17,936  [SIGNAL]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 14:46:17,939  [SIGNAL]  Balance: 10000.00 | Equity: 11256.00
+2026-03-23 14:46:17,940  [SIGNAL]  Connected | Equity: 11256.00 | Balance: 10000.00
+2026-03-23 14:46:17,940  [SIGNAL]  Equity monitor started.
+2026-03-23 14:46:17,940  [SIGNAL]  Equity monitor started.
+2026-03-23 14:46:17,941  [SIGNAL]  New peak equity: 11256.00
+2026-03-23 14:46:17,941  [SIGNAL]  Equity: 11256.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 14:49:34,573  [SIGNAL]  State loaded — peak: 11256.0, day_start: 9928.0
+2026-03-23 14:49:34,574  [SIGNAL]  Starting in DRY RUN mode
+2026-03-23 14:49:34,574  [SIGNAL]  Symbol: XAUUSD | Risk: 0.5% per trade
+2026-03-23 14:49:34,574  [SIGNAL]  London window: 07:00–10:00 UTC
+2026-03-23 14:49:34,574  [SIGNAL]  Daily DD halt: 3.5% | Max DD halt: 7.0%
+2026-03-23 14:49:34,574  [SIGNAL]  Connecting to MT5...
+2026-03-23 14:49:34,574  [SIGNAL]  Initialising MT5...
+2026-03-23 14:49:34,585  [SIGNAL]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 14:49:34,585  [SIGNAL]  Balance: 10000.00 | Equity: 11242.00
+2026-03-23 14:49:34,585  [SIGNAL]  Connected | Equity: 11242.00 | Balance: 10000.00
+2026-03-23 14:49:34,585  [SIGNAL]  Equity: 11242.00 | Daily DD: 0.00% | Max DD: 0.12%
+2026-03-23 14:49:34,585  [SIGNAL]  Equity monitor started.
+2026-03-23 14:49:34,586  [SIGNAL]  Equity monitor started.
+2026-03-23 14:49:50,405  [SIGNAL]  State loaded — peak: 11256.0, day_start: 9928.0
+2026-03-23 14:49:50,406  [SIGNAL]  Starting in DRY RUN mode
+2026-03-23 14:49:50,406  [SIGNAL]  Symbol: XAUUSD | Risk: 0.5% per trade
+2026-03-23 14:49:50,406  [SIGNAL]  London window: 07:00–10:00 UTC
+2026-03-23 14:49:50,406  [SIGNAL]  Daily DD halt: 3.5% | Max DD halt: 7.0%
+2026-03-23 14:49:50,406  [SIGNAL]  Connecting to MT5...
+2026-03-23 14:49:50,406  [SIGNAL]  Initialising MT5...
+2026-03-23 14:49:50,418  [SIGNAL]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 14:49:50,418  [SIGNAL]  Balance: 10000.00 | Equity: 11239.00
+2026-03-23 14:49:50,418  [SIGNAL]  Connected | Equity: 11239.00 | Balance: 10000.00
+2026-03-23 14:49:50,418  [SIGNAL]  Equity: 11239.00 | Daily DD: 0.00% | Max DD: 0.15%
+2026-03-23 14:49:50,418  [SIGNAL]  Equity monitor started.
+2026-03-23 14:49:50,419  [SIGNAL]  Equity monitor started.

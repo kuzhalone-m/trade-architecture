@@ -1,0 +1,211 @@
+2026-03-20 12:54:05,950  [INFO]  No state file found — will initialise from live account on connect.
+2026-03-20 12:54:05,950  [INFO]  Connecting to MetaApi...
+2026-03-20 12:54:07,201  [INFO]  HTTP Request: GET https://mt-provisioning-api-v1.agiliumtrade.agiliumtrade.ai/users/current/accounts/YOUR_ACCOUNT_ID_HERE "HTTP/1.1 401 Unauthorized"
+2026-03-20 12:55:42,176  [INFO]  Initialising MT5...
+2026-03-20 13:00:05,311  [INFO]  Initialising MT5...
+2026-03-20 13:00:05,322  [INFO]  XAUUSD added to Market Watch.
+2026-03-20 13:00:05,323  [INFO]  First run — peak equity set to 9944.00
+2026-03-20 13:00:05,323  [INFO]  First run — day start equity set to 9944.00
+2026-03-20 13:00:05,328  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-20 13:00:05,328  [INFO]  Balance: 10000.00 | Equity: 9944.00
+2026-03-20 13:00:05,329  [INFO]  [TEST_001] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.72
+2026-03-20 13:00:05,329  [INFO]  MT5 disconnected.
+2026-03-20 14:05:57,224  [INFO]  Initialising MT5...
+2026-03-20 14:05:57,236  [INFO]  First run — peak equity set to 9932.00
+2026-03-20 14:05:57,236  [INFO]  First run — day start equity set to 9932.00
+2026-03-20 14:05:57,237  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-20 14:05:57,237  [INFO]  Balance: 10000.00 | Equity: 9932.00
+2026-03-20 14:05:57,237  [INFO]  [TEST_GOOD] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-20 14:05:57,238  [WARNING]  [TEST_WARNING] Daily DD 2.44% — WARNING active
+2026-03-20 14:05:57,238  [INFO]  [TEST_WARNING] APPROVED | Daily DD: 2.44% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-20 14:05:57,238  [INFO]  MT5 disconnected.
+2026-03-20 14:05:57,247  [INFO]  Initialising MT5...
+2026-03-20 14:05:57,257  [INFO]  Connected | Account: 51522 | Equity: 9932.00
+2026-03-20 14:05:57,257  [INFO]  Peak: 9932.00 | Day start: 9932.00
+2026-03-20 14:05:57,258  [INFO]  Initialising MT5...
+2026-03-20 14:05:57,266  [INFO]  First run — peak equity set to 9932.00
+2026-03-20 14:05:57,267  [INFO]  First run — day start equity set to 9932.00
+2026-03-20 14:05:57,267  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-20 14:05:57,267  [INFO]  Balance: 10000.00 | Equity: 9932.00
+2026-03-20 14:05:57,268  [INFO]  MT5 disconnected.
+2026-03-20 15:13:31,977  [INFO]  State loaded — peak: 10066.0, day_start: 9928.0
+2026-03-20 15:13:31,977  [INFO]  Initialising MT5...
+2026-03-20 15:13:31,989  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-20 15:13:31,990  [INFO]  Balance: 10000.00 | Equity: 10092.00
+2026-03-20 15:13:31,990  [INFO]  Equity monitor started.
+2026-03-20 15:13:31,995  [INFO]  New peak equity: 10092.00
+2026-03-20 15:13:31,995  [INFO]  Equity: 10092.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-20 15:13:31,995  [INFO]  Lot calc — equity: 10092.00 | risk: 50.46 | SL dist: 10.00 | lot: 0.05
+2026-03-20 15:13:31,996  [INFO]  [DRY_RUN_001] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-20 15:13:31,996  [INFO]  [LIVE_TEST_001] Received signal — BUY XAUUSD @ 4625.48
+2026-03-20 15:13:31,997  [INFO]  [LIVE_TEST_001] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-20 15:13:31,997  [INFO]  Lot calc — equity: 10092.00 | risk: 50.46 | SL dist: 10.00 | lot: 0.05
+2026-03-20 15:13:31,997  [INFO]  [LIVE_TEST_001] Lot size: 0.05 (jitter: -6.7%)
+2026-03-20 15:13:31,997  [INFO]  [LIVE_TEST_001] Waiting 1.0s before placing order...
+2026-03-20 15:13:33,283  [INFO]  [LIVE_TEST_001] Order placed — ticket: 4812045
+2026-03-20 15:13:33,284  [INFO]  [LIVE_TEST_001] Waiting for fill on ticket 4812045...
+2026-03-20 15:14:32,305  [INFO]  Equity: 10069.00 | Daily DD: 0.00% | Max DD: 0.23%
+2026-03-20 15:14:33,297  [WARNING]  [LIVE_TEST_001] Order 4812045 not filled within 60 seconds
+2026-03-20 15:14:33,607  [INFO]  [LIVE_TEST_001] Order 4812045 cancelled.
+2026-03-20 15:14:33,622  [INFO]  MT5 disconnected.
+2026-03-23 11:16:53,135  [INFO]  State loaded — peak: 10092.0, day_start: 9928.0
+2026-03-23 11:16:53,136  [INFO]  Initialising MT5...
+2026-03-23 11:16:53,218  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 11:16:53,218  [INFO]  Balance: 10000.00 | Equity: 11182.00
+2026-03-23 11:16:53,219  [INFO]  Equity monitor started.
+2026-03-23 11:16:53,219  [INFO]  New peak equity: 11182.00
+2026-03-23 11:16:53,220  [INFO]  Equity: 11182.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 11:16:53,220  [INFO]  Lot calc — equity: 11182.00 | risk: 55.91 | SL dist: 10.00 | lot: 0.06
+2026-03-23 11:16:53,220  [INFO]  [DRY_RUN_001] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-23 11:16:53,221  [INFO]  [LIVE_TEST_001] Received signal — BUY XAUUSD @ 4270.51
+2026-03-23 11:16:53,221  [INFO]  [LIVE_TEST_001] APPROVED | Daily DD: 0.00% | Max DD: 0.00% | Open positions: 0 | Confidence: 0.75
+2026-03-23 11:16:53,222  [INFO]  Lot calc — equity: 11182.00 | risk: 55.91 | SL dist: 10.00 | lot: 0.06
+2026-03-23 11:16:53,222  [INFO]  [LIVE_TEST_001] Lot size: 0.06 (jitter: -4.2%)
+2026-03-23 11:16:53,222  [INFO]  [LIVE_TEST_001] Waiting 2.4s before placing order...
+2026-03-23 11:16:55,914  [INFO]  [LIVE_TEST_001] Order placed — ticket: 4821469
+2026-03-23 11:16:55,922  [INFO]  [LIVE_TEST_001] Waiting for fill on ticket 4821469...
+2026-03-23 11:17:42,242  [INFO]  New peak equity: 11186.00
+2026-03-23 11:17:48,247  [INFO]  New peak equity: 11194.00
+2026-03-23 11:17:50,248  [INFO]  New peak equity: 11197.00
+2026-03-23 11:17:52,250  [INFO]  New peak equity: 11198.00
+2026-03-23 11:17:53,251  [INFO]  New peak equity: 11200.00
+2026-03-23 11:17:53,251  [INFO]  Equity: 11200.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 11:17:55,935  [WARNING]  [LIVE_TEST_001] Order 4821469 not filled within 60 seconds
+2026-03-23 11:17:56,267  [INFO]  [LIVE_TEST_001] Order 4821469 cancelled.
+2026-03-23 11:17:56,281  [INFO]  MT5 disconnected.
+2026-03-23 11:18:16,686  [INFO]  State loaded — peak: 11200.0, day_start: 9928.0
+2026-03-23 11:18:16,686  [INFO]  Initialising MT5...
+2026-03-23 11:18:16,697  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 11:18:16,698  [INFO]  Balance: 10000.00 | Equity: 11192.00
+2026-03-23 11:18:16,702  [INFO]  Equity: 11192.00 | Daily DD: 0.00% | Max DD: 0.07%
+2026-03-23 11:18:16,702  [INFO]  Equity monitor started.
+2026-03-23 11:18:16,703  [INFO]  Lot calc — equity: 11192.00 | risk: 55.96 | SL dist: 10.00 | lot: 0.06
+2026-03-23 11:18:16,703  [INFO]  [DRY_RUN_001] APPROVED | Daily DD: 0.00% | Max DD: 0.07% | Open positions: 0 | Confidence: 0.75
+2026-03-23 11:18:16,704  [INFO]  [LIVE_TEST_001] Received signal — BUY XAUUSD @ 4272.13
+2026-03-23 11:18:16,704  [INFO]  [LIVE_TEST_001] APPROVED | Daily DD: 0.00% | Max DD: 0.07% | Open positions: 0 | Confidence: 0.75
+2026-03-23 11:18:16,705  [INFO]  Lot calc — equity: 11192.00 | risk: 55.96 | SL dist: 10.00 | lot: 0.06
+2026-03-23 11:18:16,705  [INFO]  [LIVE_TEST_001] Lot size: 0.06 (jitter: -2.2%)
+2026-03-23 11:18:16,705  [INFO]  [LIVE_TEST_001] Waiting 1.0s before placing order...
+2026-03-23 11:18:18,081  [INFO]  [LIVE_TEST_001] Order placed — ticket: 4821481
+2026-03-23 11:18:18,082  [INFO]  [LIVE_TEST_001] Waiting for fill on ticket 4821481...
+2026-03-23 11:18:32,710  [INFO]  New peak equity: 11201.00
+2026-03-23 11:19:16,729  [INFO]  Equity: 11194.00 | Daily DD: 0.00% | Max DD: 0.06%
+2026-03-23 11:19:18,095  [WARNING]  [LIVE_TEST_001] Order 4821481 not filled within 60 seconds
+2026-03-23 11:19:18,427  [INFO]  [LIVE_TEST_001] Order 4821481 cancelled.
+2026-03-23 11:19:18,442  [INFO]  MT5 disconnected.
+2026-03-23 14:52:04,928  [INFO]  State loaded — peak: 11256.0, day_start: 9928.0
+2026-03-23 14:52:04,928  [INFO]  Starting in DRY RUN mode
+2026-03-23 14:52:04,929  [INFO]  Symbol: XAUUSD | Risk: 0.5% per trade
+2026-03-23 14:52:04,929  [INFO]  London window: 07:00–10:00 UTC
+2026-03-23 14:52:04,929  [INFO]  Daily DD halt: 3.5% | Max DD halt: 7.0%
+2026-03-23 14:52:04,929  [INFO]  Connecting to MT5...
+2026-03-23 14:52:04,929  [INFO]  Initialising MT5...
+2026-03-23 14:52:04,940  [INFO]  MT5 connected | Account: 51522 | Broker: Aurum Markets Limited
+2026-03-23 14:52:04,940  [INFO]  Balance: 10000.00 | Equity: 11216.00
+2026-03-23 14:52:04,940  [INFO]  Connected | Equity: 11216.00 | Balance: 10000.00
+2026-03-23 14:52:04,941  [INFO]  Equity: 11216.00 | Daily DD: 0.00% | Max DD: 0.36%
+2026-03-23 14:52:04,941  [INFO]  Equity monitor started.
+2026-03-23 14:52:04,941  [INFO]  Equity monitor started.
+2026-03-23 14:52:04,941  [INFO]  System ready. Starting trading loop.
+2026-03-23 14:52:04,942  [INFO]  London window active | UTC: 09:22 | Equity: 11216.00 | Daily DD: 0.00%
+2026-03-23 14:52:04,964  [INFO]  Asian range — High: 4536.30 | Low: 4320.01 | Range: 216.29
+2026-03-23 14:52:04,965  [INFO]  No breakout — close: 4298.00 | Asian High: 4536.30 | Asian Low: 4320.01
+2026-03-23 14:52:04,965  [INFO]  No signal this cycle.
+2026-03-23 14:53:04,973  [INFO]  Equity: 11212.00 | Daily DD: 0.00% | Max DD: 0.39%
+2026-03-23 14:54:04,998  [INFO]  Equity: 11235.00 | Daily DD: 0.00% | Max DD: 0.19%
+2026-03-23 14:54:39,012  [INFO]  New peak equity: 11258.00
+2026-03-23 14:54:40,013  [INFO]  New peak equity: 11259.00
+2026-03-23 14:54:41,015  [INFO]  New peak equity: 11262.00
+2026-03-23 14:55:05,025  [INFO]  Equity: 11255.00 | Daily DD: 0.00% | Max DD: 0.06%
+2026-03-23 14:56:05,049  [INFO]  Equity: 11252.00 | Daily DD: 0.00% | Max DD: 0.09%
+2026-03-23 14:57:04,074  [INFO]  New peak equity: 11265.00
+2026-03-23 14:57:05,076  [INFO]  New peak equity: 11266.00
+2026-03-23 14:57:06,505  [INFO]  Equity: 11266.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 14:57:08,507  [INFO]  New peak equity: 11272.00
+2026-03-23 14:57:10,840  [INFO]  New peak equity: 11277.00
+2026-03-23 14:58:06,863  [INFO]  Equity: 11272.00 | Daily DD: 0.00% | Max DD: 0.04%
+2026-03-23 14:58:12,038  [INFO]  New peak equity: 11278.00
+2026-03-23 14:58:13,040  [INFO]  New peak equity: 11283.00
+2026-03-23 14:58:26,046  [INFO]  New peak equity: 11284.00
+2026-03-23 14:58:28,047  [INFO]  New peak equity: 11285.00
+2026-03-23 14:58:48,057  [INFO]  New peak equity: 11286.00
+2026-03-23 14:58:49,058  [INFO]  New peak equity: 11292.00
+2026-03-23 14:58:50,059  [INFO]  New peak equity: 11293.00
+2026-03-23 14:59:04,067  [INFO]  New peak equity: 11294.00
+2026-03-23 14:59:07,069  [INFO]  New peak equity: 11297.00
+2026-03-23 14:59:07,069  [INFO]  Equity: 11297.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 14:59:12,071  [INFO]  New peak equity: 11298.00
+2026-03-23 14:59:27,079  [INFO]  New peak equity: 11303.00
+2026-03-23 15:00:07,098  [INFO]  Equity: 11274.00 | Daily DD: 0.00% | Max DD: 0.26%
+2026-03-23 15:01:02,122  [INFO]  New peak equity: 11305.00
+2026-03-23 15:01:06,124  [INFO]  New peak equity: 11308.00
+2026-03-23 15:01:07,126  [INFO]  New peak equity: 11309.00
+2026-03-23 15:01:07,126  [INFO]  Equity: 11309.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 15:01:09,128  [INFO]  New peak equity: 11310.00
+2026-03-23 15:01:15,131  [INFO]  New peak equity: 11311.00
+2026-03-23 15:02:07,154  [INFO]  Equity: 11289.00 | Daily DD: 0.00% | Max DD: 0.19%
+2026-03-23 15:03:07,177  [INFO]  Equity: 11298.00 | Daily DD: 0.00% | Max DD: 0.11%
+2026-03-23 15:03:33,188  [INFO]  New peak equity: 11312.00
+2026-03-23 15:03:36,190  [INFO]  New peak equity: 11315.00
+2026-03-23 15:03:37,192  [INFO]  New peak equity: 11316.00
+2026-03-23 15:03:38,193  [INFO]  New peak equity: 11317.00
+2026-03-23 15:03:50,198  [INFO]  New peak equity: 11321.00
+2026-03-23 15:04:07,205  [INFO]  Equity: 11317.00 | Daily DD: 0.00% | Max DD: 0.04%
+2026-03-23 15:04:16,210  [INFO]  New peak equity: 11323.00
+2026-03-23 15:04:21,213  [INFO]  New peak equity: 11327.00
+2026-03-23 15:04:26,216  [INFO]  New peak equity: 11329.00
+2026-03-23 15:04:39,224  [INFO]  New peak equity: 11332.00
+2026-03-23 15:04:43,226  [INFO]  New peak equity: 11333.00
+2026-03-23 15:04:47,229  [INFO]  New peak equity: 11342.00
+2026-03-23 15:04:49,230  [INFO]  New peak equity: 11350.00
+2026-03-23 15:04:51,231  [INFO]  New peak equity: 11354.00
+2026-03-23 15:04:53,233  [INFO]  New peak equity: 11359.00
+2026-03-23 15:04:55,235  [INFO]  New peak equity: 11364.00
+2026-03-23 15:05:07,241  [INFO]  Equity: 11356.00 | Daily DD: 0.00% | Max DD: 0.07%
+2026-03-23 15:05:21,248  [INFO]  New peak equity: 11367.00
+2026-03-23 15:05:22,249  [INFO]  New peak equity: 11368.00
+2026-03-23 15:06:07,270  [INFO]  Equity: 11356.00 | Daily DD: 0.00% | Max DD: 0.11%
+2026-03-23 15:06:31,282  [INFO]  New peak equity: 11370.00
+2026-03-23 15:06:33,284  [INFO]  New peak equity: 11376.00
+2026-03-23 15:06:48,291  [INFO]  New peak equity: 11378.00
+2026-03-23 15:07:05,311  [INFO]  London window active | UTC: 09:37 | Equity: 11376.00 | Daily DD: 0.00%
+2026-03-23 15:07:05,316  [INFO]  Asian range — High: 4536.30 | Low: 4320.01 | Range: 216.29
+2026-03-23 15:07:05,317  [INFO]  No breakout — close: 4265.64 | Asian High: 4536.30 | Asian Low: 4320.01
+2026-03-23 15:07:05,317  [INFO]  No signal this cycle.
+2026-03-23 15:07:07,300  [INFO]  New peak equity: 11379.00
+2026-03-23 15:07:07,300  [INFO]  Equity: 11379.00 | Daily DD: 0.00% | Max DD: 0.00%
+2026-03-23 15:08:07,326  [INFO]  Equity: 11364.00 | Daily DD: 0.00% | Max DD: 0.13%
+2026-03-23 15:09:07,352  [INFO]  Equity: 11374.00 | Daily DD: 0.00% | Max DD: 0.04%
+2026-03-23 15:09:57,376  [INFO]  New peak equity: 11382.00
+2026-03-23 15:10:07,381  [INFO]  Equity: 11380.00 | Daily DD: 0.00% | Max DD: 0.02%
+2026-03-23 15:10:39,397  [INFO]  New peak equity: 11384.00
+2026-03-23 15:10:48,402  [INFO]  New peak equity: 11385.00
+2026-03-23 15:10:49,403  [INFO]  New peak equity: 11386.00
+2026-03-23 15:11:07,411  [INFO]  Equity: 11377.00 | Daily DD: 0.00% | Max DD: 0.08%
+2026-03-23 15:12:07,439  [INFO]  Equity: 11344.00 | Daily DD: 0.00% | Max DD: 0.37%
+2026-03-23 15:13:07,464  [INFO]  Equity: 11378.00 | Daily DD: 0.00% | Max DD: 0.07%
+2026-03-23 15:13:49,483  [INFO]  New peak equity: 11387.00
+2026-03-23 15:13:51,485  [INFO]  New peak equity: 11389.00
+2026-03-23 15:13:52,486  [INFO]  New peak equity: 11393.00
+2026-03-23 15:13:53,488  [INFO]  New peak equity: 11400.00
+2026-03-23 15:13:54,489  [INFO]  New peak equity: 11402.00
+2026-03-23 15:13:55,491  [INFO]  New peak equity: 11405.00
+2026-03-23 15:14:07,496  [INFO]  Equity: 11393.00 | Daily DD: 0.00% | Max DD: 0.11%
+2026-03-23 15:14:15,500  [INFO]  New peak equity: 11408.00
+2026-03-23 15:14:17,502  [INFO]  New peak equity: 11409.00
+2026-03-23 15:14:18,504  [INFO]  New peak equity: 11412.00
+2026-03-23 15:14:21,505  [INFO]  New peak equity: 11413.00
+2026-03-23 15:14:23,507  [INFO]  New peak equity: 11414.00
+2026-03-23 15:15:07,527  [INFO]  Equity: 11400.00 | Daily DD: 0.00% | Max DD: 0.12%
+2026-03-23 15:16:07,553  [INFO]  Equity: 11409.00 | Daily DD: 0.00% | Max DD: 0.04%
+2026-03-23 15:17:07,580  [INFO]  Equity: 11408.00 | Daily DD: 0.00% | Max DD: 0.05%
+2026-03-23 15:18:07,606  [INFO]  Equity: 11390.00 | Daily DD: 0.00% | Max DD: 0.21%
+2026-03-23 15:19:07,630  [INFO]  Equity: 11400.00 | Daily DD: 0.00% | Max DD: 0.12%
+2026-03-23 15:19:58,651  [INFO]  New peak equity: 11415.00
+2026-03-23 15:20:01,653  [INFO]  New peak equity: 11417.00
+2026-03-23 15:20:03,655  [INFO]  New peak equity: 11418.00
+2026-03-23 15:20:07,657  [INFO]  Equity: 11411.00 | Daily DD: 0.00% | Max DD: 0.06%
+2026-03-23 15:20:13,001  [INFO]  Shutdown requested (Ctrl+C).
+2026-03-23 15:20:13,001  [INFO]  Shutting down cleanly...
+2026-03-23 15:20:13,001  [INFO]  MT5 disconnected.
+2026-03-23 15:20:13,001  [INFO]  System stopped.
